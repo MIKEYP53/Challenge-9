@@ -13,7 +13,7 @@
 ## Description
 this app is designed to create a readme out of a prompt of questions
 
-![App Image](./assets/app-showcase.png)
+![App Image](./Develop/assets/app-showcase.png)
 
 ## Installation
 by entering into the terminal of the parent folder and typing npm i and node index.js
