@@ -1,34 +1,19 @@
-# Read me generator
+# Employee Payroll Tracker
 
-![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen)
+
 
 ## Table of Contents
 - [Description](#description)
-- [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
 - [Questions](#questions)
 
 ## Description
-this app is designed to create a readme out of a prompt of questions
+my app stores and displays the name of employees and their salary, showcased within a chart.
 
-![App Image](./assets/app-showcase.png)
-
-## Installation
-by entering into the terminal of the parent folder and typing npm i and node index.js
+![App Image](./assets/payroll-track-showcase.png)
 
 ## Usage
-after running the app you have to fill out a prompt of questions, afterwards the readme is made for you.
-
-## License
-This project is licensed under the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.
-
-## Contributing
-Na
-
-## Tests
-Na
+to use my app simply press the add employee button and fill in the respones from the alerts. you get to enter the name and pay, and as long as you submit on the last alert you can add as many employees as you want.
 
 ## Questions
 For any questions, you can reach me at:
