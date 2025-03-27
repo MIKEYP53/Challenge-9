@@ -14,7 +14,7 @@
 this app is designed to create a readme out of a prompt of questions
 
 ![App Image](./Develop/assets/app-showcase.png)
-
+https://app.screencastify.com/v3/watch/vEMZDi2LA7QrSGTlXrBn
 ## Installation
 by entering into the terminal of the parent folder and typing npm i and node index.js
 
